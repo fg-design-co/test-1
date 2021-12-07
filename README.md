@@ -1,1 +1,1 @@
-# test-1
+# This is the test repository.
